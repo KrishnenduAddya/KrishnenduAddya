@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Krishnendu Addya
 
 # 💫 About Me:
-I am currently working as a Senior Associate at PwC India. <br>Technologies working on C#, .NET, SQL and React.<br>I am currently enhancing my skills on DSA and System Design.
+I am currently working as a Senior Associate at PwC India. <br>Technologies working on C#, .NET, SQL and React.<br>I am currently enhancing my skills on DSA and System Design.<br> Here is my dev portfolio https://krishnendu-addya-dev-portfolio.firebaseapp.com/
 
 
 ## 🌐 Socials:
