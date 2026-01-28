@@ -21,11 +21,13 @@
 ## 🏅 Certifications
 - <a href="https://learn.microsoft.com/en-us/users/krishnenduaddya-0360/credentials/e0e495998c206aa9" target="_blank">Microsoft Certified: Azure Fundamentals (AZ-900)</a>  
 - <a href="https://learn.microsoft.com/en-us/users/krishnenduaddya-0360/credentials/c1c8ba1482fd3a83" target="_blank">Microsoft Certified: Azure Developer Associate (AZ-204)</a>
+- <a href="https://learn.microsoft.com/en-in/users/krishnenduaddya-0360/credentials/b9d79835bb6daff9" target="_blank">Microsoft Certified: DevOps Engineer Expert (AZ-400)</a>
 
 ---
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=KrishnenduAddya&theme=radical&hide_border=false)  
+![Profile Views](https://komarev.com/ghpvc/?username=KrishnenduAddya&color=blue&style=for-the-badge)
 
 ---
 
