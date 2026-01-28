@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=KrishnenduAddya&color=blue&style=for-the-badge)
+
 # 👋 Hi there, I'm Krishnendu Addya
 
 ## 💫 About Me
@@ -27,7 +29,6 @@
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=KrishnenduAddya&theme=radical&hide_border=false)  
-![Profile Views](https://komarev.com/ghpvc/?username=KrishnenduAddya&color=blue&style=for-the-badge)
 
 ---
 
