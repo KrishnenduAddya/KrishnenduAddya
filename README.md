@@ -4,7 +4,7 @@
 </p> -->
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <h1>Hi 👋 I'm Krishnendu Addya</h1>
+  <h1 style="margin: 0;">Hi 👋 I'm Krishnendu Addya</h1>
   <img src="https://komarev.com/ghpvc/?username=KrishnenduAddya&color=blue&style=for-the-badge" alt="Profile Views"/>
 </div>
 
