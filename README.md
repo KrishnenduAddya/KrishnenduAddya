@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="/GitHub_Profile_Banner.gif" alt="Krishnendu Addya Banner" width="100%"/>
-</p>
+// <p align="center">
+//  <img src="/GitHub_Profile_Banner.gif" alt="Krishnendu Addya Banner" width="100%"/>
+// </p>
 
 # Hi 👋, I'm Krishnendu Addya ![Profile Views](https://komarev.com/ghpvc/?username=KrishnenduAddya&color=blue&style=for-the-badge)
 
