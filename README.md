@@ -3,70 +3,10 @@
   <img src="/GitHub_Profile_Banner.gif" alt="Krishnendu Addya Banner" width="100%" style="border-radius:15px; box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
 </p>
 
-<!-- Heading with Segoe UI -->
-<h1 align="center" style="font-family:'Segoe UI', sans-serif;">Hi 👋, I'm Krishnendu Addya</h1>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KrishnenduAddya&color=blue&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://raw.githubusercontent.com/KrishnenduAddya/KrishnenduAddya/main/banner.svg" 
+       alt="Krishnendu Addya Banner" width="100%" />
 </p>
-
-<!-- About Me Section -->
-<h2 style="font-family:'Segoe UI', sans-serif;">💫 About Me</h2>
-<p style="font-family:'Segoe UI', sans-serif;">
-🔹 Senior Associate at <b>PwC India</b><br>
-🔹 Working with <b>C#, .NET, SQL, React</b><br>
-🔹 Currently enhancing skills in <b>DSA</b> and <b>System Design</b><br>
-🔹 Check out my portfolio 👉 <a href="https://krishnendu-addya-dev-portfolio.firebaseapp.com/" target="_blank">Dev Portfolio</a>
-</p>
-
----
-
-<!-- Connect Section -->
-<h2 style="font-family:'Segoe UI', sans-serif;">🌐 Connect with Me</h2>
-<p>
-<a href="https://linkedin.com/in/krishnendu-addya-025915121" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:krishnenduaddya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://facebook.com/krishnenduaddya" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-<a href="https://instagram.com/krishnendu_addya" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-</p>
-
----
-
-<!-- Tech Stack Section -->
-<h2 style="font-family:'Segoe UI', sans-serif;">💻 Tech Stack</h2>
-<p style="font-family:'Segoe UI', sans-serif;">
-<!-- Keep your badges here -->
-</p>
-
----
-
-<!-- Certifications Section -->
-<h2 style="font-family:'Segoe UI', sans-serif;">🏅 Certifications</h2>
-<p style="font-family:'Segoe UI', sans-serif;">
-- <a href="https://learn.microsoft.com/en-us/users/krishnenduaddya-0360/credentials/e0e495998c206aa9" target="_blank">Microsoft Certified: Azure Fundamentals (AZ-900)</a><br>
-- <a href="https://learn.microsoft.com/en-us/users/krishnenduaddya-0360/credentials/c1c8ba1482fd3a83" target="_blank">Microsoft Certified: Azure Developer Associate (AZ-204)</a><br>
-- <a href="https://learn.microsoft.com/en-in/users/krishnenduaddya-0360/credentials/b9d79835bb6daff9" target="_blank">Microsoft Certified: DevOps Engineer Expert (AZ-400)</a>
-</p>
-
----
-
-<!-- GitHub Stats -->
-<h2 style="font-family:'Segoe UI', sans-serif;">📊 GitHub Stats</h2>
-<p>
-<img src="https://nirzak-streak-stats.vercel.app/?user=KrishnenduAddya&theme=radical&hide_border=false" />
-</p>
-
----
-
-<p align="center" style="font-family:'Segoe UI', sans-serif;">
-Made with ❤️ by Krishnendu Addya <br>
-<a href="https://krishnendu-addya-dev-portfolio.firebaseapp.com/" target="_blank">Visit My Portfolio</a> | 
-<a href="mailto:krishnenduaddya@gmail.com" target="_blank">Contact Me</a>
-</p>
-
-<!-- <p align="center">
-  <img src="/GitHub_Profile_Banner.gif" alt="Krishnendu Addya Banner" width="100%"/>
-</p> -->
 
 # Hi 👋 I'm Krishnendu Addya ![Profile Views](https://komarev.com/ghpvc/?username=KrishnenduAddya&color=blue&style=for-the-badge)
 
