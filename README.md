@@ -3,14 +3,10 @@
   <img src="/GitHub_Profile_Banner.gif" alt="Krishnendu Addya Banner" width="100%" style="border-radius:15px; box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
 </p> -->
 
-<!-- Heading -->
-<h1 align="center">Hi 👋 I'm Krishnendu Addya</h1>
-
-<!-- Profile Views aligned right -->
-<p align="right">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h1>Hi 👋 I'm Krishnendu Addya</h1>
   <img src="https://komarev.com/ghpvc/?username=KrishnenduAddya&color=blue&style=for-the-badge" alt="Profile Views"/>
-</p>
-
+</div>
 
 ## 💫 About Me
 🔹 Senior Associate at **PwC India**  
