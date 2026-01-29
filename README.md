@@ -3,7 +3,7 @@
   <img src="/GitHub_Profile_Banner.gif" alt="Krishnendu Addya Banner" width="100%" style="border-radius:15px; box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
 </p> -->
 
-# Hi 👋, I'm Krishnendu Addya ![Profile Views](https://komarev.com/ghpvc/?username=KrishnenduAddya&color=blue&style=for-the-badge)
+# Hi 👋 I'm Krishnendu Addya ![Profile Views](https://komarev.com/ghpvc/?username=KrishnenduAddya&color=blue&style=for-the-badge)
 
 ## 💫 About Me
 🔹 Senior Associate at **PwC India**  
