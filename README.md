@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 🔹 Senior Associate at **PwC India**  
-🔹 Working with **C#, .NET, SQL, React**  
+🔹 Working with **C#, .NET Core, SQL, React**  
 🔹 Currently enhancing skills in **DSA** and **System Design**  
 🔹 Check out my portfolio 👉 <a href="https://krishnendu-addya-dev-portfolio.firebaseapp.com/" target="_blank">Dev Portfolio</a>
 
